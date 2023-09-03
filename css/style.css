@@ -1,0 +1,33 @@
+.items {
+    height: 200px;
+    color: white;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.item1 {
+    background-color: dodgerblue;
+}
+
+.item2 {
+    background-color:mediumblue;
+}
+
+.item3 {
+    background-color: darkblue;
+}
+
+.item4 {
+    background-color: brown;
+}
+
+.item5 {
+    background-color: darkolivegreen;
+}
+
+.item6 {
+    background-color: blueviolet;
+}
